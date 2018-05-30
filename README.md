@@ -3,7 +3,7 @@
 Curso de algoritmos e lógica de programação ministrado pelo Professor Gustavo Guanabara com ênfase no pseudocódigo portugol.
 https://www.cursoemvideo.com/course/curso-de-algoritmos/
 
-## >Estudos sobre o curso no EverNote.
+## Estudos sobre o curso no EverNote.
 
 Aula 01 - Introdução a Algoritmos
 
