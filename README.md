@@ -8,6 +8,8 @@ https://www.cursoemvideo.com/course/curso-de-algoritmos/
 Abaixo notas sobre o curso feitos no evernote.
 Os algoritmos criados durante o curso estão armazenados em suas respectivas pastas.
 
+Certificado - https://www.cursoemvideo.com/wp-content/uploads/2018/01/973-146898.jpeg
+
 ## Estudos sobre o curso no EverNote.
 
 Aula 01 - Introdução a Algoritmos
