@@ -5,7 +5,7 @@ https://www.cursoemvideo.com/course/curso-de-algoritmos/
 
 ### Sobre o repositório
 
-Abaixo notas sobre o curso feitos no evernote.
+Abaixo, notas sobre o curso feitos no evernote.
 Os algoritmos criados durante o curso estão armazenados em suas respectivas pastas.
 
 Certificado - https://www.cursoemvideo.com/wp-content/uploads/2018/01/973-146898.jpeg
@@ -65,12 +65,4 @@ http://www.evernote.com/l/AmK4nIG32C9I6JUr5qZJrN6RCr3nNHuTJhk/
 
 Aula 13 - Rotinas II
 
-http://www.evernote.com/l/AmJ9VYBdcYxGgJP0VUlvc4HjabTxmxpKUf0/
-
-Aula 14 - Vetores
-
-http://www.evernote.com/l/AmLdiGNbph9D77-8LIRKH-eE515X5JYVAt0/
-
-Aula 15 - Matrizes
-
-http://www.evernote.com/l/AmIgtsS019FJ5atl6v_Qg7EBNO7HM-yWVDI/
+http://www.evernote.com/l/AmJ9VYBdcYxGgJP0VUl
