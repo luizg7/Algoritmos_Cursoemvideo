@@ -1,4 +1,4 @@
-#Curso Algoritmos 
+# Curso Algoritmos 
 
 Curso de algoritmos e lógica de programação ministrado pelo Professor Gustavo Guanabara com ênfase no pseudocódigo portugol.
 https://www.cursoemvideo.com/course/curso-de-algoritmos/
