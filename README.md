@@ -3,6 +3,9 @@
 Curso de algoritmos e lógica de programação ministrado pelo Professor Gustavo Guanabara com ênfase no pseudocódigo portugol.
 https://www.cursoemvideo.com/course/curso-de-algoritmos/
 
+### Certificado - https://www.cursoemvideo.com/wp-content/uploads/2018/01/973-146898.jpeg
+
+
 ### Sobre o repositório
 
 Abaixo, notas sobre o curso feitos no evernote.
