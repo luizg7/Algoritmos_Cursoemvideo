@@ -69,3 +69,12 @@ http://www.evernote.com/l/AmK4nIG32C9I6JUr5qZJrN6RCr3nNHuTJhk/
 Aula 13 - Rotinas II
 
 http://www.evernote.com/l/AmJ9VYBdcYxGgJP0VUl
+
+Aula 14 - Vetores
+
+http://www.evernote.com/l/AmLdiGNbph9D77-8LIRKH-eE515X5JYVAt0/
+
+Aula 15 - Matrizes
+
+http://www.evernote.com/l/AmIgtsS019FJ5atl6v_Qg7EBNO7HM-yWVDI/
+
